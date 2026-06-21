@@ -1,6 +1,6 @@
 # Personal Website — Kaloka Radia Nanda
 
-A simple personal landing page introducing who I am and what I focus on.
+A simple personal website introducing who I am and what I focus on.
 
 ## Tech Stack
 - React
